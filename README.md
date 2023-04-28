@@ -6,7 +6,7 @@ First you download what shows on the screen by going to code and download ZIP th
 
 Features
 
-1. Limited Sniper
+1. Limited Sniper (Sniping cheap limiteds for 1-1000 robux)
 2. You can see how much sales an item got
 3. Values of limiteds
 MORE TO COME!
