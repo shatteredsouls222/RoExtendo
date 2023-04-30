@@ -1,7 +1,7 @@
 # RoExtendo
 How To Use!
 
-First you download what shows on the screen by going to code and download ZIP then go to your extensions then turn on developer mode then load unpacked and then add the extension in your extensions then click on it from your extension shortcut and it should be there forever until its deleted.
+First you download what shows on the screen by going to code and download ZIP then go to your extensions shortcut and press manage extensions then turn on developer mode then go inside of RoExtendo-Main and until you see RoExtendo and README file then drag JUST RoExtendo in your extensions tab and then add the extension in your extensions then click on it from your extension shortcut and it should be there forever until its deleted.
 
 
 Features
